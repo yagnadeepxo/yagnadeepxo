@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @yagnadeepxo
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning new things daily about computer science
-- 💞️ I’m looking to collaborate on projects which make true impact.
+- 👀 I ship quick 🚢
 - 📫 this my twitter: https://twitter.com/yagnadeepxo
 
 <!---
