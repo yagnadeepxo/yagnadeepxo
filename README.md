@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yagnadeepxo
-- 👀 I ship quick 🚢
-- 📫 this my twitter: https://twitter.com/yagnadeepxo
+- 
+-👀 I ship quick 🚢
+- 
 
 <!---
 yagnadeepxo/yagnadeepxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
