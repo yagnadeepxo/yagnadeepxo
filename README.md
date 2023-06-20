@@ -8,7 +8,7 @@
 | [anonymix](https://anonymix.vercel.app) | Developed a crypto mixer utilizing zkSNARK for enhanced privacy and anonymity in cryptocurrency transactions. | 
 
 ## Co-founder of Brainheads NFT 
-[minting website](brainheads.netlify.app)
+[minting website](https://brainheads.netlify.app)
 
 
 
