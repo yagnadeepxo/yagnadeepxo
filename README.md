@@ -1,8 +1,20 @@
-Independent ZK Research
+# Yagnadeep: A software developer forging the future of finance with blockchain technology.
 
-![Yagna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagnadeepxo&show_icons=true&theme=dark)
+## My Projects
+| Project Name | Description |
+| ------------ | ----------- |
+| ![Blockchain Java](https://github.com/yagnadeepxo/bitcoin-java) |  Java implementation of a blockchain data structure for decentralized and secure digital transactions. |
+| ![Centralized Cryptoexchange](https://github.com/yagnadeepxo/crypto_exchange) | I created a centralized crypto exchange platform with buy/sell functionality and real-time price integration from external API |
+| ![anonymix](anonymix.vercel.app) | Developed a crypto mixer utilizing zkSNARK for enhanced privacy and anonymity in cryptocurrency transactions. | 
 
-<!---
-yagnadeepxo/yagnadeepxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Co-founder of Brainheads NFT 
+
+![img1](https://drive.google.com/file/d/19duXGYLV6RexxUzLSuTFvCOvFtulKHUb/view?usp=sharing) ![img2](https://drive.google.com/file/d/19duXGYLV6RexxUzLSuTFvCOvFtulKHUb/view?usp=sharing)
+
+![minting website](brainheads.netlify.app)
+
+
+
+
+
+
