@@ -1,5 +1,5 @@
 # Yagnadeep: A software developer forging the future of finance with blockchain technology.
-### yung RustLing
+### yung Rustling 🦀
 ## My Projects
 | Project Name | Description |
 | ------------ | ----------- |
