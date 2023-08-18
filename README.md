@@ -11,10 +11,6 @@
 ## I simplify blockchain concepts through easy-to-understand blog posts. 
 [Tech blog](https://dev.to/yagnadeepxo)
 
-## Co-founder of Brainheads NFT (Unique NFT collection Launched on Solana during solana Hacker House 2022)
-![](https://plum-maximum-lion-632.mypinata.cloud/ipfs/QmZPgXdxtND91LY7FsPBCgNJZ5aH8TUY5ydfPdsKJUXWXY)              ![](https://plum-maximum-lion-632.mypinata.cloud/ipfs/QmWFnmPMvhJeMNPiWSsxZFyE2czSznW9P3qT3m2KLbb1cc)
-
-[minting website](https://brainheads.netlify.app)
 
 
 
