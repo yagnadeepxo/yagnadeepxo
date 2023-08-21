@@ -8,7 +8,7 @@
 | [anonymix](https://anonymix.vercel.app) | Developed a crypto mixer utilizing zkSNARK for enhanced privacy and anonymity in cryptocurrency transactions. | 
 | [zk-pharma](https://zk-pharma.vercel.app) | drug parameters verification using circom and snarkjs to protect Intellectual Property of the drug designer.|
 
-## I simplify blockchain concepts through easy-to-understand blog posts. 
+## I simply ZK concepts through easy-to-understand blog posts. 
 [Tech blog](https://dev.to/yagnadeepxo)
 
 
